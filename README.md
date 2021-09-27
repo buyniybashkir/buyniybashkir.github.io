@@ -1,2 +1,2 @@
-# yegorshiryaev.github.io
+#Егор Ширяев
 Мой 1 сайт
